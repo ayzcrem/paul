@@ -1,0 +1,55 @@
+* {
+font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgba(254, 254, 254, 0.924);
+    flex-direction: row;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.page{
+    /* background-color: darksalmon; */
+    padding-top: 200px;
+    padding-bottom: 50px;
+    margin: 50px;
+    display: flex;
+    /* height: 100vh; */
+    justify-content: center;
+}
+
+#name{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.intro{
+    /* background-color: aquamarine; */
+    font-size: 14px;
+    text-align: justify;
+    padding-left: 2%;
+    display: inline-block;
+    height: 600px;
+    width: 345px;
+    flex-direction: column;
+}
+
+.pic{
+    height: 600px;
+}
+
+#section{
+    font-weight: bold;
+}
+
+#indent{
+    padding-left: 2%;
+}
