@@ -17,12 +17,10 @@ a:hover{
 }
 
 .page{
-    /* background-color: darksalmon; */
     padding-top: 200px;
     padding-bottom: 50px;
     margin: 50px;
     display: flex;
-    /* height: 100vh; */
     justify-content: center;
 }
 
@@ -32,7 +30,6 @@ a:hover{
 }
 
 .intro{
-    /* background-color: aquamarine; */
     font-size: 14px;
     text-align: justify;
     padding-left: 2%;
